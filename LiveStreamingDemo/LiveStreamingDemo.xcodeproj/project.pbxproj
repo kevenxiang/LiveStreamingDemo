@@ -77,6 +77,19 @@
 			path = Tools;
 			sourceTree = "<group>";
 		};
+		64B5B3C120A412FA00766537 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				64448D4020A410A5004CFD69 /* Profile */,
+				64448D3F20A41097004CFD69 /* Follow */,
+				64448D3E20A41091004CFD69 /* Home */,
+				64448D3D20A4108B004CFD69 /* Live */,
+				64448D3C20A4106C004CFD69 /* Main */,
+				64448D4120A410C6004CFD69 /* Tools */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
 		64C773ED20A3FE4700BCF2ED = {
 			isa = PBXGroup;
 			children = (
@@ -96,12 +109,7 @@
 		64C773F820A3FE4700BCF2ED /* LiveStreamingDemo */ = {
 			isa = PBXGroup;
 			children = (
-				64448D4120A410C6004CFD69 /* Tools */,
-				64448D4020A410A5004CFD69 /* Profile */,
-				64448D3F20A41097004CFD69 /* Follow */,
-				64448D3E20A41091004CFD69 /* Home */,
-				64448D3D20A4108B004CFD69 /* Live */,
-				64448D3C20A4106C004CFD69 /* Main */,
+				64B5B3C120A412FA00766537 /* Classes */,
 				64C773F920A3FE4700BCF2ED /* AppDelegate.swift */,
 				64C773FB20A3FE4700BCF2ED /* ViewController.swift */,
 				64C773FD20A3FE4700BCF2ED /* Main.storyboard */,
